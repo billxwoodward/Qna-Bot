@@ -1,0 +1,18 @@
+{
+    "name": "qnabot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "3d4fac20-b831-11e8-8049-3177478201e1",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "secretKey": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\willi957\\Documents\\qnabot.bot"
+}

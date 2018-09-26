@@ -137,6 +137,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="AdaptiveCards\MyCard.JSON" />
+    <Content Include="qnabot.bot" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
